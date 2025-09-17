@@ -111,6 +111,7 @@ Flow code
    - Program selesai dengan return 0;.
   
 Dokumentasi
+[Video Dokumentasi](Dokumentasi/cpp.mp4)
 
 PYTHON
 
@@ -211,6 +212,7 @@ Flow code
    - print("Terima kasih!") lalu break loop → program selesai.
 
 Dokumentasi
+[Video Dokumentasi](Dokumentasi/python.mp4)
 
 JAVA
 
@@ -312,6 +314,7 @@ Flow Code
    - Cetak "Pilihan tidak valid"
 
 Dokumentasi
+[Video Dokumentasi](Dokumentasi/java.mp4)
 
 PHP
 
